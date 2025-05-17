@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo ao meu perfil!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=FFormado+em+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=455&lines=Formado+em+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </p>
 
 <p align="center">
