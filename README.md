@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Angus! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=500&lines=Desenvolvedor+de+Sistemas;Apaixonado+por+Tecnologia+e+Inovação;Explorando+Mobile,+Web+e+Segurança" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=455&lines=Formado+em+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </p>
 
 ---
