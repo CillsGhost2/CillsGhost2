@@ -6,8 +6,6 @@
 
 ---
 
----
-
 ### 👨‍💻 Sobre Mim
 
 Sou um **Tecnólogo em Desenvolvimento de Sistemas** recém-formado pela **ETEC de Catanduva (Elias Nechar)**, buscando aplicar e expandir meus conhecimentos no dinâmico universo da tecnologia. Sou movido pela curiosidade e tenho um interesse especial por **Segurança da Informação, Desenvolvimento Mobile e Web, Design e Automação**.
