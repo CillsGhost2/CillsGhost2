@@ -72,16 +72,6 @@ Acredito na importância de simplificar o complexo e gosto de compartilhar conhe
 
 ---
 
-### ✨ Algo para Alegrar o Perfil! ✨
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes"/>
-  </a>
-</p>
-
----
-
 ### 📬 Conecte-se Comigo
 
 <p align="center">
@@ -99,3 +89,6 @@ Acredito na importância de simplificar o complexo e gosto de compartilhar conhe
 ---
 
 <p align="center">Obrigado pela visita!</p>
+<p align="center">
+  <img src="https://github.com/CillsGhost2/CillsGhost2/blob/main/glitch_402565.svg?short_path=746514f" alt="Frô" />
+</p>
