@@ -48,7 +48,8 @@ Acredito na importância de simplificar o complexo e gosto de compartilhar conhe
 
 **Ferramentas e Outros:**
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,git,github,wordpress,Excel" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,git,github,wordpress" /></a>
+  <br>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
   <img src="https://img.shields.io/badge/Hostinger-purple?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
