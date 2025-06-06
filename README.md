@@ -32,10 +32,10 @@ Acredito na importância de simplificar o complexo e gosto de compartilhar conhe
     *   **Descrição:** Desenvolvimento de scripts em Python para automatizar interações e explorar as funcionalidades da plataforma Bluesky. Este projeto envolveu o estudo de APIs e contribuiu para a identificação e reporte de bugs.
     *   **Tecnologias:** Python.
 
-*   **LeiArcaica (Chat no Neocities)**
+*   **Chat online no Neocities**
     *   **Descrição:** Um site de chat simples hospedado no Neocities, desenvolvido como um experimento para explorar a utilização do **Firebase Realtime Database diretamente no frontend**, contornando algumas restrições de backend clássicas.
     *   **Tecnologias:** HTML, CSS, JavaScript, Firebase Realtime Database.
-    *   **Visitar:** [leiarcaica.neocities.org](https://leiarcaica.neocities.org)
+    *   **Visitar:** [cillsghost.neocities.org](https://cillsghost.neocities.org)
 
 *   **FakeBet (Simulação de Cassino no Neocities)**
     *   **Descrição:** Uma simulação de cassino online criada no Neocities. Este projeto também utiliza o **Firebase Realtime Database para gerenciar dados diretamente pelo frontend**, demonstrando uma abordagem alternativa para persistência de dados em projetos onde um backend tradicional não é viável ou desejado. Implementado com considerações de segurança para o contexto da aplicação.
