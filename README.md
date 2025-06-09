@@ -101,5 +101,4 @@ Acredito na importância de simplificar o complexo e gosto de compartilhar conhe
 <p align="center">Obrigado pela visita!</p>
 <p align="center">
   <img src="https://github.com/CillsGhost2/CillsGhost2/blob/main/glitch_402565.svg?short_path=746514f" alt="Frô" />
-<iframe src="teste.svg" width="500" height="250"></iframe>
 </p>
